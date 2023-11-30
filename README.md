@@ -1,9 +1,5 @@
 ### Hi there 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" width="100"/>
-</div>
 
-<div align="center"><h1>Всем привет🖐️!</h1></div>
 
 ## <h2>🚀 Цели :</h2>
 
@@ -14,9 +10,9 @@
 
 ## 📅 Сейчас :
 
-Обучаюсь в школе 21 от Сбера
+Обучаюсь в магистратуре МИСИС и Яндекс практикум "Веб-разработчик"
 
-Работаю над групповым проектом "Система управления и мотивация персонала".
+Работаю над групповым проектом "Планировщик задач с применением таймера Pomodoro".
 
 ### <h2>🛠️ Мой стек :</h2>
 
@@ -32,4 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>
 </div>
-
+### <h2>👨‍💻 Мои контакты :</div>
+<p>
+<a href="" title=><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="typescript" width="40" height="40" /></a>
+<a href="mirodeiss@yahoo.com" title="mirodeiss@yahoo.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="typescript" width="40" height="40" /></a>
+</p>
